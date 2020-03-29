@@ -1,4 +1,4 @@
-# virus
+# Novel Coronavirus COVID-19 Pandemic
 
 Stay upto date with Covid 19 data
 
