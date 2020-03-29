@@ -13,9 +13,9 @@ As a community there is a lot we can achieve as we help in the fight of COVID-19
 using available data or any other trusted source of real time data on COVID-19.
 As a Flutter developer you can contribute by adding:-
 
-### charts from the data provided or any other trusted source.
-### RSS Feed from WHO or CDC
-### Emergency call centers per country etc.
+* charts from the data provided or any other trusted source.
+* RSS Feed from WHO or CDC
+* Emergency call centers per country etc.
 
 ## Disclaimer
 
