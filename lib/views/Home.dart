@@ -203,7 +203,10 @@ class HomeState extends State<Home> {
                           child: Text(
                             Utils.formatNumber(covid.deaths),
                             style: TextStyle(
-                                fontSize: 28, fontWeight: FontWeight.bold),
+                              fontSize: 28,
+                              fontWeight: FontWeight.bold,
+                              color: PrimaryColor,
+                            ),
                           ),
                         ),
                       ),
